@@ -1,6 +1,6 @@
 // let navbar=$(".navbar");
-//
-//
+
+
 // $(window).scroll(function(){
 //   let oTop=$(".section-2").offset().top-window.innerHeight;
 //   ($(window).scrollTop()>oTop){
@@ -9,14 +9,14 @@
 //     navbar.removeClass("sticky");
 //   }
 // });
-//
-//
+
+
 // let nCount=function(selector){
 //   $(selector).each(function(){
-//
+
 //     $(this).animate({
 //       Counter:$(this).text()
-//
+
 //     },
 //     {
 //       duration:4000,
@@ -24,12 +24,12 @@
 //       step:function(value){
 //         $(this).text(Math.cell(value));
 //       }
-//
+
 //     }
 //   );
 // });
 // };
-//
+
 // let a=0;
 // $(window).scroll(function(){
 //   let oTop=$(".number").offset().top-window.innerHeight;
